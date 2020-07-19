@@ -1,3 +1,6 @@
 <resources>
     <string name="app_name">KotlinAndroidAddTwoNum</string>
+    <string name="txtLabel">Sum Two Numbers"</string>
+    <string name="etNum1">enter num one</string>
+    <string name="etNum2">Enter num two</string>
 </resources>

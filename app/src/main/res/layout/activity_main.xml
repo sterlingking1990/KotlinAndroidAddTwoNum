@@ -12,7 +12,7 @@
         android:id="@+id/txtLabel"
         android:layout_width="0dp"
         android:layout_height="match_parent"
-        android:text="Sum Two Numbers"
+        android:text="@string/txtLabel"
         android:textSize="30sp"
         android:layout_marginTop="200dp"
         android:textAlignment="center"
